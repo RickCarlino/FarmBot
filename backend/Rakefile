@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Backend::Application.load_tasks
+Farmbot::Application.load_tasks

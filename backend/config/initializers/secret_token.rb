@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Backend::Application.config.secret_key_base = 'ddb79e328d45a0edfc9f9ed1c1967c42585e4eae307d0664794760b8c866023824a7113fbb4551c5433e5b5823d9be646d4d9b7fa9a1fafaf4cced8ea6d5de08'
+Farmbot::Application.config.secret_key_base = 'ddb79e328d45a0edfc9f9ed1c1967c42585e4eae307d0664794760b8c866023824a7113fbb4551c5433e5b5823d9be646d4d9b7fa9a1fafaf4cced8ea6d5de08'
